@@ -1,4 +1,15 @@
-Here's an explanation of each term/parameter used in the OpenAI Chat Completion API:
+
+This assignment is designed to deepen your understanding of the parameters used with the OpenAI Chat Completion API. You will explain the purpose and functionality of the following terms or parameters in your own words.
+
+Terms/Parameters to Explain:
+Messages
+Model  
+Max Completion Tokens
+n
+Stream
+Temperature
+Top_p
+Tools
 
 ### **Messages**
 - The `messages` parameter is the core input for the Chat Completion API. It represents a conversation's history in the form of a list of objects. Each object includes a `role` (such as `user`, `assistant`, or `system`) and `content` (the actual message text).  
