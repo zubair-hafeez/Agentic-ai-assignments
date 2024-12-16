@@ -49,4 +49,3 @@ Tools
 - The `tools` parameter refers to additional functionalities or external systems the model can use, such as browsing the web, performing calculations, or generating images.  
 - **Purpose**: It extends the capabilities of the model, enabling it to integrate with specific APIs or external services for enhanced problem-solving.
 
-Let me know if you need further clarification!
