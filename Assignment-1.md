@@ -2,13 +2,21 @@
 This assignment is designed to deepen your understanding of the parameters used with the OpenAI Chat Completion API. You will explain the purpose and functionality of the following terms or parameters in your own words.
 
 Terms/Parameters to Explain:
+
 Messages
+
 Model  
+
 Max Completion Tokens
+
 n
+
 Stream
+
 Temperature
+
 Top_p
+
 Tools
 
 ### **Messages**
